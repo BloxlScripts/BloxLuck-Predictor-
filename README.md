@@ -1,4 +1,4 @@
-Download the Bloxwin release.
+Download the BloxLuck release.
 Extract the ZIP archive.
 Open Chrome and go to chrome://extensions/
 Enable Developer mode
